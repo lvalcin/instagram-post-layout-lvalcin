@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+}
+.container{
+    display: block;
+    background-color: white;
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.body{
+    display:flex;
+}
+.header-left{
+    display: flex;
+    align-items: center
+}
